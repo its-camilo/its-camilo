@@ -16,5 +16,6 @@ var Camilo = {
     currentFocus: ["Software Developer", "Game Developer"],
     email: ["camiloalejandrolagosmalaver@gmail.com"],
     portfolio: ["[camiloalejandrolagosmalaver@gmail.com]
+}
 ```
 </h3>
