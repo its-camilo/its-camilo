@@ -9,7 +9,7 @@ var Camilo = {
     askMeAbout: ["WebDev", "Tech", "Git", "Unity", "Unreal Engine"],
     currentFocus: ["Software Developer", "Game Developer"],
     email: ["camiloalejandrolagosmalaver@gmail.com"],
-    portfolio: ["camiloalejandrolagosmalaver@gmail.com"]
+    portfolio: ["https://its-camilo.github.io/portfolio/"]
 }
 ```
 </h3>
